@@ -1,0 +1,13 @@
+Relatório do Dia:
+
+Itens Adicionados Hoje:
+Sorvetes Adicionados: 40
+Condimentos Adicionados: 40
+
+Vendas de Hoje:
+Sorvetes Vendidos: 0
+Vendas de Sorvetes (R$): 0.00
+Condimentos Vendidos: 0
+Vendas de Condimentos (R$): 0.00
+
+Total de Vendas do Dia (R$): 0.00
